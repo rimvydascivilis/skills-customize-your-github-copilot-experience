@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "searching-and-sorting",
+      "title": "Searching and Sorting Algorithms",
+      "description": "Implement and compare searching and sorting algorithms in Python",
+      "path": "assignments/searching-and-sorting",
+      "dueDate": "2026-11-03",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
